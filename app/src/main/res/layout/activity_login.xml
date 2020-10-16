@@ -98,6 +98,8 @@
         android:letterSpacing="0.1"
         android:paddingStart="8dp"
         android:paddingEnd="8dp"
+        android:enabled="false"
+        android:clickable="false"
         android:text="Login without password"
         android:textColor="@color/colorAccent"
         android:textSize="12dp" />
