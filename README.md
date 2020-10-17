@@ -8,7 +8,8 @@
 4) Enable/Disable Button functionality according to the text inside Edit Text's.
 
 # Final Look of the screen
-![Group 305](https://user-images.githubusercontent.com/42198187/96329967-4fbaf980-106f-11eb-909b-6979e0839a09.png)
+![Frame 287](https://user-images.githubusercontent.com/42198187/96330358-1041dc80-1072-11eb-8a3f-9e2e5bb05532.png)
+
 
 
 # Part-1
